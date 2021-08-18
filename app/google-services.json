@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "44209255122",
+    "project_id": "white-label-bd1f0",
+    "storage_bucket": "white-label-bd1f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44209255122:android:908bb084230c701dd6330b",
+        "android_client_info": {
+          "package_name": "br.com.johnlennonlobo.whitelabeltutorial.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CUwdF9_ZMQbM69bILQVhDL9_Vq6CvMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44209255122:android:6059aeab830c5573d6330b",
+        "android_client_info": {
+          "package_name": "br.com.johnlennonlobo.whitelabeltutorial.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CUwdF9_ZMQbM69bILQVhDL9_Vq6CvMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44209255122:android:236275edade18edad6330b",
+        "android_client_info": {
+          "package_name": "br.com.johnlennonlobo.whitelabeltutorial.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CUwdF9_ZMQbM69bILQVhDL9_Vq6CvMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44209255122:android:fccb172a42a03010d6330b",
+        "android_client_info": {
+          "package_name": "br.com.johnlennonlobo.whitelabeltutorial.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CUwdF9_ZMQbM69bILQVhDL9_Vq6CvMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44209255122-ssetb2s9pt1479gib1r7fl2grk2bibi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
